@@ -1,2 +1,2 @@
-CREATE DATABASE trybefy;
-USE trybefy;
+CREATE DATABASE Trybefy;
+USE Trybefy;
